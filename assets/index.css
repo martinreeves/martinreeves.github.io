@@ -42,9 +42,9 @@
 	font-size: 100px;
 	letter-spacing: 2px;
 	word-spacing: 2px;
-	color: #000000;
+	color: black;
 	font-weight: normal;
-	
+	width:100%;
 	position: absolute;
 	bottom: 0px;
 	left:50%;
