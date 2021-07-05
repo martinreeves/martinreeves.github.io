@@ -1,9 +1,4 @@
 
-* {
-  margin: 0;
-  padding: 0;
-}
-
 @font-face {
     font-family: "LeagueGothic";
     font-style: normal;
@@ -64,7 +59,6 @@ ul {
 	text-align: center;
 	justify-content: center;
 	display: flex;
-	
 }
 
 li a {
@@ -74,9 +68,12 @@ li a {
   padding: 13px;
   text-decoration: none;
   font-family: Menlo, monospace;
+<<<<<<< HEAD
   font-size: 2vh;
 }
 
 a:hover {
   box-shadow: inset 0 -2px 0 black;
+=======
+>>>>>>> parent of 2d38621 (Fixed padding)
 }
